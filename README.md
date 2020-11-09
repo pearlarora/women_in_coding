@@ -1,1 +1,2 @@
-# women_in_coding
+# Women In Coding Club, NCU
+Web Development Submissions
